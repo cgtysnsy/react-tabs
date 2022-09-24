@@ -1,4 +1,4 @@
-# Foobar
+# React.js - Tabs
 
 Tabs exercise for React.js
 
